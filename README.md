@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Kang Service
-- 🌱 I’m currently learning React JS, Next JS, Flutter, Tailwind CSS
+- 🌱 I’m currently learning React JS, Next JS, Flutter, Tailwind CSS, Firebase
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
