@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Agile Teknik & PictSnap & NexMed
-- 🌱 I’m currently learning React JS, Next JS, React Native, Flutter, Tailwind CSS, Firebase, Mongo DB
+- 🔭 I’m currently working as Data Analyst at PT Bank Syariah Indonesia Tbk
+- 🌱 I’m currently learning Power BI, Python, React JS, Next JS, React Native, Flutter, Tailwind CSS, Firebase, Mongo DB
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
